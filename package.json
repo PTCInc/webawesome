@@ -23,6 +23,13 @@
   "devDependencies": {
     "@11ty/eleventy": "3.0.0",
     "@custom-elements-manifest/analyzer": "^0.11.0",
+    "@storybook/addon-a11y": "^10.5.3",
+    "@storybook/addon-docs": "^10.5.3",
+    "@storybook/addon-links": "^10.5.3",
+    "@storybook/web-components": "^10.5.3",
+    "@storybook/web-components-vite": "^10.5.3",
+    "storybook": "^10.5.3",
+    "vite": "^7.0.0",
     "@lit-labs/eleventy-plugin-lit": "^1.0.6",
     "@lit-labs/testing": "^0.2.5",
     "@lit/react": "^1.0.8",
